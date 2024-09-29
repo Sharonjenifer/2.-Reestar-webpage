@@ -9,7 +9,7 @@ This is a simple, single-page website for Reestar Restaurant, built using HTML a
 
 **How to view:**
 
-You can access my portfolio website by visiting [].
+You can access my portfolio website by visiting [https://sharonjenifer.github.io/2.-Reestar-webpage/].
 
 **Technologies Used:**
 
