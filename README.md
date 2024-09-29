@@ -7,6 +7,10 @@ This is a simple, single-page website for Reestar Restaurant, built using HTML a
 **Menu Section:** A showcase of featured dishes and beverages.
 **Contact Information:** Location details and ways to make reservations or inquiries.
 
+**How to view:**
+
+You can access my portfolio website by visiting [].
+
 **Technologies Used:**
 
 **HTML5:** For structuring the content.
