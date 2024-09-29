@@ -1,0 +1,102 @@
+
+body{
+    font-family: "Playwrite DE Grund";
+}
+.Reestar-one{
+    background-color: rgb(88, 71, 82);
+    color: white;
+    text-align: center;
+    padding: 2px;
+    margin: 5px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+
+}
+.container{
+    margin: 5px;
+    text-align: center;
+}
+.Reestar-two{
+    display: inline-block;
+    border: solid black 3px;
+}
+.Reestar-three{
+    display: inline-block;
+    border: solid black 3px;
+}
+.Reestar-four{
+    display: inline-block;
+    border: solid black 3px;
+}
+.Reestar-five{
+    display: inline-block;
+    border: solid black 3px;
+}
+.Reestar-two__title, .Reestar-three__title, .Reestar-four__title, .Reestar-five__title{
+    font-size: 20px;
+    color: brown;
+}
+.Reestar-one__desc{
+ cursor: pointer; 
+ font-size: 20px;
+}
+.Reestar-two__button, .Reestar-three__button, .Reestar-four__button, .Reestar-five__button{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 5px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: rgb(141, 51, 26);
+    
+}
+.Contact-form{
+    background-color: rgb(88, 71, 82);
+    color: white;
+    table-layout: center;
+    padding: 3px;
+    margin: 5px;
+    text-align: center;
+    font-size: 20px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    
+}
+.Contact-form__one{
+    display: inline-block;
+    
+}
+.Contact-form__button{
+    
+    background-color: rgb(141, 51, 26);
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 20px;
+    margin-top: 5px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.Contact-form__input{
+    border: none;
+    background-color: transparent;
+    border-bottom: solid white 2px;
+    padding: 5px;
+    margin-top: 5px;
+}
+.Contact-form__title{
+    font-size: 25px;
+    padding: 5px;    
+}
+  
