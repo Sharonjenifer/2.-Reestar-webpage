@@ -1,4 +1,4 @@
-**Reestar Restaurant Website**
+# **Reestar Restaurant Website**
 
 This is a simple, single-page website for Reestar Restaurant, built using HTML and basic CSS. The website provides a clean and elegant design to showcase the restaurant’s offerings and contact information.
 
